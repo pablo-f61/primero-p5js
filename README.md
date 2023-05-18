@@ -2,4 +2,4 @@
 
 ## Primer acs
 
-Lologre
+Lo logre
